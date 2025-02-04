@@ -3,8 +3,10 @@ RomchikConsole for Hikka\Heroku
 
 EN: The current latest version is 0.7.
 Currently in beta testing
+
 Advantages:
 Working "ping"
+
 Flaws:
 Very few features
 
@@ -12,8 +14,10 @@ Very few features
 
 RU: Текущая последняя версия — 0.7.
 В настоящее время находится в стадии бета-тестирования
+
 Преимущества:
 Рабочий «пинг»
+
 Недостатки:
 Очень мало функций
 
